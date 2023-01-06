@@ -22,4 +22,4 @@ Motivado pelo mundo da tecnologia, estudo programação para entender e criar pr
 
 ## Entre em contato comigo!
 
-[Meu Email](arthuroreis2005@gmail.com)
+[arthuroreis2005@gmail.com](mailto:arthuroreis2005@gmail.com?subject=%3CAssunto%3E&body=Ol%C3%A1!)
