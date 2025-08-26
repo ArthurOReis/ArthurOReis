@@ -1,27 +1,29 @@
-### Olá sou o Arthur Reis ✌️
+# Olá, eu sou Arthur Reis! 💻
 
-![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/ArthurOReis)
+Tenho dedicação à programação, IoT e inovação. Desde cedo, mergulhei no universo da tecnologia, buscando entender como as coisas funcionam e de que forma posso contribuir para soluções que impactam o dia a dia.  
+Atualmente, sou estudante de Engenharia de Telecomunicações no IFSC São José, onde participo de projetos, pesquisas e me dedico ao desenvolvimento contínuo de novas habilidades.  
+Estou sempre aberto a desafios, colaborações e oportunidades de aprendizado. Caso queira conversar sobre tecnologia, projetos ou ideias inovadoras, fique à vontade para entrar em contato!
 
-[![Arthur Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOReis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Linguagens que tenho conhecimento básico e trabalho no dia-a-dia
+## 📊 Estatísticas do GitHub
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align="center" alt="postresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="sqlite" src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurOReis&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+</p>
 
-Motivado pelo mundo da tecnologia, estudo programação para entender e criar projetos dinâmicos.
+---
 
-## Entre em contato comigo!
+## 🛠️ Conhecimentos e Tecnologias
 
-[arthuroreis2005@gmail.com](mailto:arthuroreis2005@gmail.com?subject=%3CAssunto%3E&body=Ol%C3%A1!)
+- **Linguagens:** Python, JavaScript, Typescript, Java, PHP, C, Matlab
+- **Frameworks/Bibliotecas:** Django, React, React Native, Node.js
+- **Banco de Dados:** SQLite, PostgreSQL
+- **Ferramentas:** Postman, Git, GitHub, VSCode, IDEs JetBrains (IntelliJ, PyCharm, etc.)
 
-![snake gif](https://github.com/ArthurOReis/ArthurOReis/blob/output/github-contribution-grid-snake.gif)
+---
+
+## 📫 Contato
+
+- **Email:** [arthuroreis2005@gmail.com](mailto:arthuroreis2005@gmail.com)
+- **LinkedIn:** [Arthur Oliveira](https://www.linkedin.com/in/arthur-oliveira-dos-reis-97b416287/)
